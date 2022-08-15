@@ -43,6 +43,7 @@ plot_qPCR_standard <- function(
   protein = "",
   c = "",
   save_path = ".",
+  ylim=c(28,40),
   ...
   ) {
 
@@ -88,7 +89,7 @@ plot_qPCR_standard <- function(
       labels = scales::trans_format("log10", scales::math_format(10^.x)),
       limits = c(0.0001,1)
     ) +
-    ylim(c(28,40)) +
+    ylim(ylim) +
     annotation_logticks(sides="b") +
     theme_light() +
     theme(plot.title = element_text(hjust=0.5)) +
