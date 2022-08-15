@@ -1,0 +1,9 @@
+Well,Sample description 1,Sample description 2,Sample description 3,Sample description 4,Target,Conc(copies/µL),Status,Experiment,SampleType,TargetType,Supermix,DyeName(s),Accepted Droplets,Positives,Negatives
+A09,5,,,,1,5.66974878311157,Manual,CNV,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,20800,100,20700
+B09,5,,,,1,3.03163266181946,Manual,CNV,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,8937,23,8914
+C09,25,,,,1,0.616308093070984,Manual,CNV,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,19094,10,19084
+D09,25,,,,1,0.616986870765686,Manual,CNV,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,19073,10,19063
+E09,125,,,,1,0.241463512182236,Manual,CNV,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,19491,4,19487
+F09,125,,,,1,0.170326068997383,Manual,CNV,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,20723,3,20720
+G09,625,,,,1,0.0647212490439415,Manual,CNV,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,18178,1,18177
+H09,625,,,,1,0,Manual,CNV,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13310,0,13310
